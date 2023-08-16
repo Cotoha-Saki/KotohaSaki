@@ -58,3 +58,16 @@ body {
 
 
 /* footer CSS */
+
+.copyright {
+    height: 170px;
+    width: auto;
+    background-color: rgb(122, 191, 228);
+}
+
+.copyright .copyright-p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
